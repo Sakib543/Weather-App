@@ -14,7 +14,6 @@ A sleek and responsive weather forecast application built with **React.js** and 
 - React.js
 - Tailwind CSS
 - OpenWeather API
-- Vite (optional, if used)
 
 ## 🌐 Live Demo
 
